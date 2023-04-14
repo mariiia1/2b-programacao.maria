@@ -24,8 +24,9 @@ padding: 24px 0;
 
 .Escola-Cívico-Militar{
   background-image: linear-gradient(pink,white);
+  display: flex;
 }
 
-fofa-imagem{
+.fofa-imagem{
   width: 25%
 }
